@@ -3,7 +3,45 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/layout/activity_main.xml" value="0.1331521739130435" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2635416666666667" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/drawable/backgroud_chat_input.xml" value="0.2635416666666667" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/drawable/background_content_top.xml" value="0.2" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/drawable/background_orange_corner_16.xml" value="0.2635416666666667" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/drawable/bg_login.xml" value="0.16979166666666667" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/drawable/box.xml" value="0.1625" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/drawable/btn_bg.xml" value="0.22" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/drawable/btn_normal_bg.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/drawable/btn_pressed_bg.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/drawable/button_bg.xml" value="0.1625" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/drawable/circular_bg.xml" value="0.1625" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/drawable/edit_text_bg.xml" value="0.1625" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/drawable/edit_text_rounded_corner.xml" value="0.1625" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/drawable/et_bg.xml" value="0.2635416666666667" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/drawable/ic_add.xml" value="0.1625" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/drawable/ic_close.xml" value="0.1625" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/drawable/ic_info.xml" value="0.2635416666666667" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1625" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/drawable/ic_send.xml" value="0.2635416666666667" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/drawable/recv_message_bg.xml" value="0.1625" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/drawable/round_gray.xml" value="0.1625" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/drawable/round_grey.xml" value="0.2635416666666667" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/drawable/round_primary.xml" value="1.1035714285714286" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/drawable/send_bg.xml" value="0.328125" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/drawable/send_message_bg.xml" value="0.1625" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/drawable/taskbar_bg.xml" value="0.1625" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/layout/activity_chat.xml" value="0.25" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/layout/activity_list_view.xml" value="0.33" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/layout/activity_login_phone_number.xml" value="0.22" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/layout/activity_simple_chat.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/layout/activity_splash.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/layout/item_message.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/layout/progress_bar.xml" value="0.13229166666666667" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/layout/recv_message_layout.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/layout/row_add_cricketer.xml" value="0.25" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/layout/send_message_layout.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/layout/simple_text.xml" value="0.16530797101449277" />
+        <entry key="..\:/Users/truong_than/Desktop/android/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2635416666666667" />
       </map>
     </option>
   </component>
